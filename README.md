@@ -32,17 +32,21 @@
 </p>
 
 ## 📞Contato:
-<div align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="linkedin-git.png" alt="LinkedIn" width="120" />
+<p align="center">
+  <!-- Botão do LinkedIn -->
+  <a href="https://www.linkedin.com/in/viniciusklima" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="instagram-git.png" alt="Instagram" width="120" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/viniciusk._" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  viniciuskls2006@gmail.com
-</div>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:viniciuskls2006@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+</p>
+
 
 
 
