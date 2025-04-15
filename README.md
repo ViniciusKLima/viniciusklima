@@ -52,4 +52,4 @@
   /viniciuskls2006@gmail.com
 </p>
 
-![snake gif](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
