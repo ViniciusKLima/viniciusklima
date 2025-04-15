@@ -32,18 +32,17 @@
 </p>
 
 ## 📞Contato:
-<a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" />
-  LinkedIn
-</a>
-
-<p>
-  Aqui está o meu perfil do 
-  <span style="vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align: middle;"/>
-  </span>
-  LinkedIn!
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="linkedin-git.png" alt="LinkedIn" width="120" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="instagram-git.png" alt="Instagram" width="120" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  viniciuskls2006@gmail.com
+</div>
 
 
 
