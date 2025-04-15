@@ -3,7 +3,6 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=13E7FF&center=false&vCenter=true&width=435&lines=SEJA+BEM-VINDO!)](https://git.io/typing-svg)
-
 ## 🛠️Skills:
 <div>
   <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
