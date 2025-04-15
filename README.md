@@ -32,6 +32,7 @@
 </p>
 
 ## 📞Contato:
+<br>
 <p align="center">
   <!-- Botão do LinkedIn -->
   <a href="https://www.linkedin.com/in/viniciusklima" target="_blank">
@@ -45,6 +46,9 @@
   <a href="mailto:viniciuskls2006@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
+</p>
+<p align="center">
+  /viniciuskls2006@gmail.com
 </p>
 
 
