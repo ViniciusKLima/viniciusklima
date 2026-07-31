@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="banner github"/>
+  <img src="./banner-bluespace.png" alt="banner github"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=13E7FF&center=false&vCenter=true&width=435&lines=SEJA+BEM-VINDO!)](https://git.io/typing-svg)
