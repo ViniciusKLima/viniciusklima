@@ -2,7 +2,7 @@
   <img src="./banner-bluespace.png" alt="banner github"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&pause=1000&center=true&vCenter=true&width=435&lines=Do+Figma+ao+deploy.+.+.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&pause=1000&center=false&vCenter=true&width=435&lines=Do+Figma+ao+deploy.+.+.+)](https://git.io/typing-svg)
 ## 🛠️Skills:
 <div>
   <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
